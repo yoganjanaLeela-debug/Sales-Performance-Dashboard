@@ -447,5 +447,3 @@ SELECT * FROM vw_monthly_sales;
 SELECT * FROM vw_customer_ranking;
 
 SELECT * FROM vw_product_sales;
-ALTER USER postgres
-WITH PASSWORD 'anjana2006';

@@ -4,11 +4,7 @@ An interactive Power BI dashboard built to analyze sales performance using the S
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot to this repository and replace the image path below with its repository path.
-
-```markdown
 ![Sales Performance Dashboard](images/sales-performance-dashboard.png)
-```
 
 ## Project Overview
 
